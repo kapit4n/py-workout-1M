@@ -1,7 +1,4 @@
 ## Categories
-## FLASK
-auth-flask.py(59), route_flask.py(0), S(59)
-
 ## CLEAN-CODE
 classes.py(199), S(199)
 
@@ -11,8 +8,10 @@ tools-14-07-2022.py(195), tools-15-07-2022-01.py(176), tools-15-07-2022-02.py(72
 ## DATA-STRUCTURES
 slice.py(25), S(25)
 
+## .DS_STORE
+
 ## FLASK-API
-server.py(9), tasks.py(2), S(11)
+login-11-10-2022.py(145), server.py(9), tasks.py(2), S(156)
 
 ## SOCKETS
 example5.py(65), example4.py(25), example.py(16), example3.py(30), example6.py(30), example2.py(5), S(171)
@@ -23,8 +22,11 @@ async-py.py(16), for-21-07-2022.py(28), solid-21-07-2022.py(69), func-001.py(39)
 ## CLASSES
 classes02.py(205), classes03.py(86), person-example.py(11), classes01.py(125), S(427)
 
+## FLASK-FW
+auth-flask.py(59), route_flask.py(0), S(59)
+
 ## ALGORITHMS
-S(0)
+binary-three-10-28-3022.py(67), fibonacci.py(7), binary-search-10-28-2022.py(16), S(90)
 
 ## UNIT-TESTS
 ut001.py(49), S(49)
@@ -34,6 +36,9 @@ open-closed.py(101), single-responsibility.py(41), S(142)
 
 ## CONCURRENCY
 futures.py(32), S(32)
+
+## ORMS
+sqlAlchemy-11-10-2022.py(95), S(95)
 
 ## MAILER-PY
 example.py(26), read_file.py(18), S(44)
@@ -57,4 +62,4 @@ implementation_1.py(0), server.py(79), S(79)
 pyjwt.py(9), S(9)
 
 # Total 
-3071
+3401
